@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SoumyaDandapat20
 - 👀 I’m interested in coding and learning new things
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning everything about Full Stack Development
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: my mail id - dandapasoumya20@gmail.com
 
 <!---
